@@ -5,3 +5,7 @@ C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSha
 C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\obj\Debug\Keyb0ard-Server.csproj.CoreCompileInputs.cache
 C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\obj\Debug\Keyb0ard-Server.exe
 C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\obj\Debug\Keyb0ard-Server.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\bin\Debug\RaspberryPiDotNet.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\bin\Debug\RaspberryPiDotNet.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\bin\Debug\RaspberryPiDotNet.xml
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-Server\obj\Debug\Keyb0ard-Server.csproj.CopyComplete
