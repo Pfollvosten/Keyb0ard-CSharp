@@ -1,0 +1,10 @@
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\bin\Debug\Keyb0ard-CSharp.exe.config
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\bin\Debug\Keyb0ard-CSharp.exe
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\bin\Debug\Keyb0ard-CSharp.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard-CSharp.csprojAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard_CSharp.Form1.resources
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard_CSharp.Properties.Resources.resources
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard-CSharp.csproj.GenerateResource.cache
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard-CSharp.exe
+C:\Users\lukas\Documents\Visual Studio 2017\Visual Studio Projects\Keyb0ard-CSharp\Keyb0ard-CSharp\obj\Debug\Keyb0ard-CSharp.pdb
